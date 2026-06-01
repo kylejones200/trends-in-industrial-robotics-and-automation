@@ -11,14 +11,7 @@ Some of the most recent developments in industrial robotics and automation are o
 
 Collaboration robots, or cobots, are meant to work safely with people in a shared office. Unlike traditional industrial robots that are typically caged off to prevent humans from entering their workspace, cobots are equipped with advanced sensors and safety features that allow them to detect the presence of humans and adjust their actions accordingly.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
